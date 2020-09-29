@@ -1,9 +1,12 @@
 Team/Product Name: LucidLive
 Date: 22 September 2020
-Our project aims at creating a VR Headset that can detect brain signals and
-create a virtual reality experience to the user by putting him within a three dimensional virtual reality world.
+Company/Product Name:
+-LucidLive
 
--The user can choose between gaming and entertainment functionality.
--Headset does not need any controller or external sensor, includes a USB connector for charging and connecting to devices.
-Our project aims at creating a VR Headset that can detect brain signals and create a virtual reality experience to the user
-by putting him within a three dimensional virtual reality world.
+Team Member Names:
+Thulam Tran 300185320
+
+VR Headset Description:
+Our project aims at creating a VR Headset that can detect brain signals, directly translating your thoughts
+into actions within a virtual reality world. Our technology aims to create the most immersive entertainment
+experience possible, by making your thoughts the controller. 
