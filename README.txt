@@ -5,6 +5,7 @@ Company/Product Name:
 
 Team Member Names:
 Thulam Tran 300185320
+Hugo Paré 300173735
 Quoc Dat Phung 300164087
 
 VR Headset Description:
