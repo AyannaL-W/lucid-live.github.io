@@ -5,8 +5,9 @@ Company/Product Name:
 
 Team Member Names:
 Thulam Tran 300185320
+Quoc Dat Phung 300164087
 
 VR Headset Description:
 Our project aims at creating a VR Headset that can detect brain signals, directly translating your thoughts
 into actions within a virtual reality world. Our technology aims to create the most immersive entertainment
-experience possible, by making your thoughts the controller. 
+experience possible, by making your thoughts the controller.
