@@ -6,11 +6,8 @@ Company/Product Name:
 Team Member Names:
 Thulam Tran 300185320
 Hugo Paré 300173735
-<<<<<<< HEAD
 Nizhor Akter 300197389
-=======
 Ayanna Levert-Westmacott 300166388
->>>>>>> a408eaf0060a9f9e66c4a7c97595afa2cc99a673
 
 VR Headset Description:
 Our project aims at creating a VR Headset that can detect brain signals, directly translating your thoughts
