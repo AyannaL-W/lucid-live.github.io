@@ -21,3 +21,5 @@ Futursitic, clean
 
 Colors:
 Light blue: #18A9FA
+Black: #000000
+White: #FFFFFF
