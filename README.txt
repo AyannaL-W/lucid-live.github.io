@@ -13,7 +13,6 @@ Ayanna Levert-Westmacott 300166388
 VR Headset Description:
 Our project aims at creating a VR Headset that can detect brain signals, directly translating your thoughts
 into actions within a virtual reality world. Our technology aims to create the most immersive entertainment
- 
 experience possible, by making your thoughts the controller.
 
 -----------------
