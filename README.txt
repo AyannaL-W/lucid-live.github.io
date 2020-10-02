@@ -16,13 +16,4 @@ Our project aims at creating a VR Headset that can detect brain signals, directl
 into actions within a virtual reality world. Our technology aims to create the most immersive entertainment
 experience possible, by making your thoughts the controller.
 
------------------
-Overall Look:
-Futursitic, clean
-
------------------
-Colors:
-Light blue: #18A9FA
-Black: #000000
-White: #FFFFFF
 
