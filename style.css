@@ -36,12 +36,14 @@ White: #FFFFFF
 
 .pricebox {
   text-align: center;
-  margin: auto;
   width: 25%;
   height: 100px;
   /*display: inline-block:block;*/
   border: 1px solid blue;
-  padding: 10px 15px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
   text-decoration: none;
   background: #ffdddd;
   color: #880000;
@@ -50,5 +52,5 @@ White: #FFFFFF
 }
 
 p.pricebox:hover {
-  box-shadow: 8px 8px 8px
+  box-shadow: 6px 6px 6px
 }
