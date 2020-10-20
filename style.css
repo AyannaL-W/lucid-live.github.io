@@ -4,6 +4,12 @@ Light blue: #18A9FA
 Black: #000000
 White: #FFFFFF
 */
+
+/*Body background color*/
+.bodybackground {
+  background-color: #18A9FA
+}
+
 .pricebox {
   text-align: center;
   margin: auto;
