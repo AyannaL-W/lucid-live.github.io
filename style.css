@@ -4,3 +4,17 @@ Light blue: #18A9FA
 Black: #000000
 White: #FFFFFF
 */
+.pricebox {
+  text-align: center;
+  margin: auto;
+  width: 25%;
+  height: 100px;
+  /*display: inline-block:block;*/
+  border: 1px solid blue;
+  padding: 10px 15px;
+  text-decoration: none;
+  background: #ffdddd;
+  color: #880000;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px
+}
