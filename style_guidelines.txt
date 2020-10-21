@@ -7,9 +7,30 @@ Colors:
 Light blue: #18A9FA
 Black: #000000
 White: #FFFFFF
+Blue: #3081cb
+Muted Blue: #346ca0
+Deep Blue: #02256a
+Dark Blue: #1d4e7a
+Darkest blue: #102b44
+Hot Pink: #90096d
+Pink: #c347a2
+Dark Pink: #63064b
+-----------------
+
+Iconography:
+TBD
 
 -----------------
 
 Typography:
+We will be using the font oxygen.
 
 -----------------
+
+Links:
+when a link is hovered over it will change to a darker colour
+
+-----------------
+
+Buttons:
+scales up as you hover over them
