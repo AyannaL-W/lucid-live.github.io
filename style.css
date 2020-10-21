@@ -54,3 +54,47 @@ White: #FFFFFF
 p.pricebox:hover {
   box-shadow: 7px 7px 7px
 }
+
+.textbox
+{
+	position: relative;
+	width: 1200px;
+	height: 200px;
+	margin: 15px auto;
+	
+}
+
+.imagebox{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	margin: 15px 0px auto;
+}
+
+.imagebox .imgbox{
+	position: relative;
+	width: calc(150px - 10px);
+	height: calc(150px - 10px);
+	background: #F0F8FF;
+	float: left;
+	margin: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+	border-radius: 100px;
+}
+
+.textbox .box
+{
+	position: relative;
+	width: calc(300px - 10px);
+	height: calc(150px - 10px);
+	background: #F0F8FF;
+	float: left;
+	margin: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+	border-radius: 40px;
+}
+
+
+
