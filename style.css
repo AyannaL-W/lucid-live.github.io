@@ -34,7 +34,9 @@ body {
 .small-font {
   font-size: 70%;
 }
-
+.highlight-blue{
+  background-color: #80ced6;
+}
 .cross {
   text-decoration: line-through;
 }
