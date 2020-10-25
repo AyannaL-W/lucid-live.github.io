@@ -40,6 +40,9 @@ body {
 .highlight-yellow{
   background-color: #FFFF00;
 }
+.highlight-pink {
+  background-color: #c347a2;
+}
 .cross {
   text-decoration: line-through;
 }
