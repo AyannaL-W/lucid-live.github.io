@@ -2,8 +2,13 @@
 <html>
 
 <head>
+
     <title>Prices</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Our price page to buy VR headsets">
+    <meta name="keywords" content="LucidLive, Shopping, Price">
     <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+    <meta name="author" content="Quoc Dat Phung">
 </head>
 
 <body class = "bodybackground">
@@ -25,29 +30,33 @@
 
   <div class="pricebox">
     <p class="oxygen bold">PRICE 1</p>
-    <button class="pricebutton" onclick="buy()">BUY</button>
+    <button class="pricebutton" onclick="buy(99)">BUY</button>
   </div>
   <div class="pricebox">
     <p class="oxygen bold">PRICE 2</p>
-    <button class="pricebutton" onclick="buy()">BUY</button>
+    <button class="pricebutton" onclick="buy(199)">BUY</button>
   </div>
   <div class="pricebox">
     <p class="oxygen bold">PRICE 3</p>
-    <button class="pricebutton" onclick="buy()">BUY</button>
+    <button class="pricebutton" onclick="buy(299)">BUY</button>
   </div>
   <div class="pricebox">
     <p class="oxygen bold">PRICE 4</p>
-    <button class="pricebutton" onclick="buy()">BUY</button>
+    <button class="pricebutton" onclick="buy(399)">BUY</button>
   </div>
   <script>
-    function buy() {
+    //Global variables
+    var p = 0; //total price in shopping cart
+    function buy(price) {
       var text = "";
-      if (confirm("Add this item to cart?")) {
-        text = "ADDED to cart!";
+      if (confirm("Add this item to shopping cart?")) {
+        text = "ADDED to shopping cart!";
+        p += price;
       } else {
-        text = "REMOVED from cart!";
+        text = "REMOVED from shopping cart!";
       }
       alert(text);
+      alert("Total price in cart: " + "$" + p);
     }
   </script>
 </body>
