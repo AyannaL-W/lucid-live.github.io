@@ -37,6 +37,9 @@ body {
 .highlight-blue{
   background-color: #80ced6;
 }
+.highlight-yellow{
+  background-color: #FFFF00;
+}
 .cross {
   text-decoration: line-through;
 }
