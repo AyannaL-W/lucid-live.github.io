@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
     <title>Prices</title>
     <meta charset="UTF-8">
     <meta name="description" content="Our price page to buy VR headsets">
@@ -11,7 +9,7 @@
     <meta name="author" content="Quoc Dat Phung">
 </head>
 
-<body class = "bodybackground">
+<body id='home-page'>
 <!--NAVIGATION BAR-->
 <nav class="navbar">
   <div class="navbaricon">
@@ -19,15 +17,17 @@
         <img src="images/LucidLive_Icon.png"/>
       </a>
   </div>
-
   <div class="navbarbutton">
       <a href="./features.html" >Features</a>
       <a href="./price.html">Prices</a>
       <a href="./team.html">Our Team</a>
   </div>
 </nav>
-
-
+<!--BACKGROUND IMAGE-->
+<div class="content">
+  <img src='images/home-background.jpg' class='home-background'/>
+</div>
+<!--PRICE BOXES-->
   <div class="pricebox">
     <p class="oxygen bold">PRICE 1</p>
     <button class="pricebutton" onclick="buy(99)">BUY</button>
@@ -44,6 +44,7 @@
     <p class="oxygen bold">PRICE 4</p>
     <button class="pricebutton" onclick="buy(399)">BUY</button>
   </div>
+<!--JAVASCRIPT TO INTERACT WITH PRICE BUY BUTTONS-->
   <script>
     //Global variables
     var p = 0; //total price in shopping cart

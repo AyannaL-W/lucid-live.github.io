@@ -50,14 +50,14 @@ body {
   /* Written by Quoc Dat Phung.
   Please don't change anything without letting me know*/
   text-align: center;
+  position: relative;
   width: 25%;
   height: 100px;
-  display: table;
   border: 1px solid blue;
   margin: 20px;
   margin-left: auto;
   margin-right: auto;
-  padding: 40px;
+  padding: 50px;
   text-decoration: none;
   background: #ffdddd;
   color: #880000;
