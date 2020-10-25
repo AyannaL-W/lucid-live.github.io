@@ -62,11 +62,12 @@ body {
 }
 
 .pricebox {
+  /* Written by Quoc Dat Phung.
+  Please don't change anything without letting me know*/
   text-align: center;
   width: 25%;
   height: 100px;
   display: table;
-  /*display: inline-block:block;*/
   border: 1px solid blue;
   margin: 20px;
   margin-left: auto;
@@ -80,12 +81,16 @@ body {
 }
 
 .pricebox:hover {
+  /* Written by Quoc Dat Phung.
+  Please don't change anything without letting me know*/
   box-shadow: 7px 7px 7px;
   width: 35%;
   height: 130px
 }
 
 .pricebutton {
+  /* Written by Quoc Dat Phung.
+  Please don't change anything without letting me know*/
   border: none;
   color: black;
   font-weight: bold;
