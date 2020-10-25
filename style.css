@@ -25,9 +25,14 @@ body {
   font-family: oxygen
 }
 
+.large-font {
+  font-size: 150%;
+}
+
 .cross {
   text-decoration: line-through;
 }
+
 .oxygen {
   font-family: oxygen;
 }
@@ -54,8 +59,9 @@ body {
   Please don't change anything without letting me know*/
   text-align: center;
   position: relative;
+  overflow:hidden;
   width: 25%;
-  height: 100px;
+  height: 150%;
   border: 1px solid red;
   margin: 20px;
   margin-left: auto;
@@ -73,7 +79,7 @@ body {
   Please don't change anything without letting me know*/
   box-shadow: 7px 7px 7px;
   width: 35%;
-  height: 130px;
+  height: 175%;
   background: #ffa8a8
 }
 
