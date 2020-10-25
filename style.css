@@ -154,8 +154,23 @@ body {
 	margin: 15px 0px;
 	display: inline-block;
     margin-left: 15;
-    margin-left: 15;
+    margin-right: 15;
 }
+
+.box
+{
+  position: relative;
+  width: calc(300px - 10px);
+  height: calc(150px - 10px);
+  background: #F0F8FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 40px;
+  display: inline-block;
+}
+
 /*
 .imagebox .imgbox{
 	position: relative;
