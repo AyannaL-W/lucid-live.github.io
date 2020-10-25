@@ -141,26 +141,23 @@ body {
 
 .navbar img{
   float: left;
-  width: 50px;
   height: 50px;
 }
 
-.navbar a {
-  float: left;
+.navbar .navbarbutton a {
+  float: right;
+  text-align: right;
   display: outside;
   font-size: 16px;
   color: white;
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   transition: 200ms;
 }
 
-.navbar a:hover {
+.navbar .navbarbutton a:hover {
   background-color: #102b44;
 }
-
-
 
 
 /*--HOMEPAGE--*/
@@ -256,7 +253,6 @@ body {
   background:#102b44;
   box-shadow: 5px 5px 5px #63064b;
 }
-
 
 /* The dots/bullets/indicators */
 .dot {
