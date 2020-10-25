@@ -54,6 +54,13 @@ body {
   height: 100%
 }
 
+.price-headset-image {
+  /* Written by Quoc Dat Phung.
+  Please don't change anything without letting me know*/
+  border-radius: 25px;
+  max-width: 70%;
+  height: auto
+}
 .pricebox {
   /* Written by Quoc Dat Phung.
   Please don't change anything without letting me know*/
