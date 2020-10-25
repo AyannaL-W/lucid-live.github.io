@@ -65,6 +65,7 @@ body {
   text-align: center;
   width: 25%;
   height: 100px;
+  display: table;
   /*display: inline-block:block;*/
   border: 1px solid blue;
   margin: 20px;
@@ -78,7 +79,7 @@ body {
   box-shadow: 3px 3px 5px
 }
 
-p.pricebox:hover {
+.pricebox:hover {
   box-shadow: 7px 7px 7px;
   width: 35%;
   height: 130px
