@@ -26,7 +26,7 @@ body {
 }
 
 .large-font {
-  font-size: 150%;
+  font-size: 140%;
 }
 
 .cross {
@@ -58,7 +58,7 @@ body {
   /* Written by Quoc Dat Phung.
   Please don't change anything without letting me know*/
   border-radius: 25px;
-  max-width: 70%;
+  max-width: 50%;
   height: auto
 }
 .pricebox {
@@ -70,13 +70,13 @@ body {
   width: 25%;
   height: 150%;
   border: 1px solid red;
+  background: #ffdddd;
+  color: #880000;
   margin: 20px;
   margin-left: auto;
   margin-right: auto;
-  padding: 50px;
+  padding: 0px;
   text-decoration: none;
-  background: #ffdddd;
-  color: #880000;
   border-radius: 5px;
   box-shadow: 3px 3px 5px
 }
