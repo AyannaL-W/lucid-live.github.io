@@ -133,10 +133,6 @@ p.pricebox:hover {
   background-color: #333;
 }
 
-.navbar ul{
-  list-style-type: none
-}
-
 .navbar img{
   float: left;
   width: 50px;
