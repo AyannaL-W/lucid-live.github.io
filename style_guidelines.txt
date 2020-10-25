@@ -2,7 +2,7 @@ Overall Style of the Lucid Livewebsite:
 Futuristic, simple, and clean
 
 The overall look and feel should be minimalist and flat. We will avoid 3d buttons and 3d metal looks.
-The website should be calm and gentle for the user.
+The website should be calm and gentle for the user .
 
 -----------------
 
