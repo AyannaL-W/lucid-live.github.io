@@ -110,7 +110,23 @@ body {
   box-shadow: 3px 3px 5px;
   transition: .5s ease;
 }
-
+.profileimage{
+  /* Written by Quoc Dat Phung.
+  Please don't change anything without letting me know*/
+  text-align: center;
+  position: relative;
+  overflow:hidden;
+  width: 30%;
+  height: 150%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  text-decoration: none;
+  transition: .2s ease;
+}
+.img {
+  border-radius: 50%;
+}
 .pricebox:hover {
   /* Written by Quoc Dat Phung.
   Please don't change anything without letting me know*/
