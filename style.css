@@ -19,6 +19,19 @@ body {
   margin:0;
 }
 
+@font-face {
+  src: url(fonts/Oxygen-Light.ttf);
+  font-family: oxygen
+}
+
+.oxygen {
+  font-family: oxygen
+}
+
+.bold {
+  font-weight: bold;
+}
+
 /*Body background color*/
 .bodybackground {
   background-color: #18A9FA
