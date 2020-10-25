@@ -44,23 +44,20 @@
 <div class="slideshow-container">
   <!--Full width images with number and caption text-->
   <div class="mySlides fade">
-    <a href="./features.html">
     <img src='images/slide-features.jpg' style='width:100%'>
-    <div class='text'>Learn more</div>
+    <a href="./features.html"><div class='text'>Learn more</div>
     </a>
   </div>
 
   <div class="mySlides fade">
-    <a href="./price.html">
     <img src='images/slide-prices.jpg' style='width:100%'>
-    <div class='text'>View Your Options</div>
+    <a href="./price.html"><div class='text'>View Your Options</div>
     </a>
   </div>
 
   <div class="mySlides fade">
-    <a href="./team.html">
     <img src='images/slide-team.jpg' style='width:100%'>
-    <div class='text'>Meet the Team</div>
+    <a href="./team.html"><div class='text'>Meet the Team</div>
     </a>
   </div>
 
@@ -97,7 +94,7 @@
     var slides = document.getElementsByClassName('mySlides');
     var dots = document.getElementsByClassName('dot');
     if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slide.length}
+    if (n < 1) {slideIndex = slides.length}
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = 'none';
     }
