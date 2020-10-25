@@ -17,6 +17,7 @@ Dark Pink: #63064b
 body {
   font-family: oxygen, Helvetica, sans-serif;
   margin:0;
+
 }
 
 @font-face {
@@ -135,7 +136,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #02256a;
 }
 
 .navbar img{
@@ -152,10 +153,11 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  transition: 200ms;
 }
 
 .navbar a:hover {
-  background-color: #3081cb;
+  background-color: #102b44;
 }
 
 
@@ -235,14 +237,24 @@ body {
 }
 
 /* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
+#home-page .text {
+  font-weight: bold;
+  color: #FFFFFF;
+  font-size: 30px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 3px;
   width: 100%;
   text-align: center;
+  background:#346ca0;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #63064b;
+  transition: 200ms;
+}
+
+#home-page .text:hover {
+  background:#102b44;
+  box-shadow: 5px 5px 5px #63064b;
 }
 
 
