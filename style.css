@@ -87,7 +87,9 @@ p.pricebox:hover {
 .pricebutton {
   border: none;
   color: black;
-  background-color: #000000;
+  font-weight: bold;
+  background-color: #FEFFFE;
+  box-shadow: 1px 1px 1px;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
