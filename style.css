@@ -70,7 +70,8 @@ body {
   Please don't change anything without letting me know*/
   box-shadow: 7px 7px 7px;
   width: 35%;
-  height: 130px
+  height: 130px;
+  background: #ffa8a8
 }
 
 .pricebutton {
@@ -168,7 +169,7 @@ body {
   #home-page .content{
     position: relative;
   }
-  
+
   #home-page .home-background {
     max-width:100%;
     position:absolute;
