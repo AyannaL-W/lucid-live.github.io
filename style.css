@@ -25,12 +25,22 @@ body {
   font-family: oxygen
 }
 
+.front {
+  position: relative
+}
 .large-font {
   font-size: 140%;
+}
+.small-font {
+  font-size: 70%;
 }
 
 .cross {
   text-decoration: line-through;
+}
+
+.white {
+  color: white;
 }
 
 .oxygen {
@@ -46,6 +56,9 @@ body {
   background-color: #18A9FA
 }
 
+.textcenter{
+  text-align: center
+}
 .center {
   display: block;
   margin-left: auto;
