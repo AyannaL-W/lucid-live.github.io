@@ -107,36 +107,39 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
-
+/*
 .textbox
 {
 	position: relative;
 	width: 1200px;
 	height: 200px;
-	margin: 15px auto;
-
+	margin: 15px;
+	display: inline-block;
+*/
 }
 
 .imagebox{
-	position:relative;
+	position: relative;
 	width: 200px;
 	height: 200px;
-	margin: 15px 0px auto;
+	margin: 15px 0px;
+	display: inline-block;
+    margin-left: auto;
+    margin-left: auto;
 }
-
+/*
 .imagebox .imgbox{
 	position: relative;
 	width: calc(150px - 10px);
 	height: calc(150px - 10px);
 	background: #F0F8FF;
-	float: left;
 	margin: 10px;
 	box-sizing: border-box;
 	overflow: hidden;
 	border-radius: 100px;
 }
-
-.textbox .box
+*/
+.box
 {
 	position: relative;
 	width: calc(300px - 10px);
@@ -147,6 +150,7 @@ body {
 	box-sizing: border-box;
 	overflow: hidden;
 	border-radius: 40px;
+	display: inline-block;
 }
 
 
