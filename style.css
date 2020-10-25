@@ -38,9 +38,17 @@ body {
 .cross {
   text-decoration: line-through;
 }
-
+.pink {
+  color: pink;
+}
 .white {
   color: white;
+}
+.orange {
+  color: orange;
+}
+.yellow {
+  color: yellow;
 }
 
 .oxygen {
