@@ -1,5 +1,8 @@
-Overall Style of the website:
-Futursitic, clean
+Overall Style of the Lucid Livewebsite:
+Futuristic, simple, and clean
+
+The overall look and feel should be minimalist and flat. We will avoid 3d buttons and 3d metal looks.
+The website should be calm and gentle for the user .
 
 -----------------
 
@@ -15,16 +18,18 @@ Darkest blue: #102b44
 Hot Pink: #90096d
 Pink: #c347a2
 Dark Pink: #63064b
+
+We use dark blue of different shades with pink or yellow glow to produce a cool, futuristic look.
 -----------------
 
 Iconography:
-TBD
+We will focus on using icons that have a flat and glowy design. We will use
+the brain image for our design
 
 -----------------
 
 Typography:
-We will be using the font oxygen.
-
+We will be using the font oxygen because it looks futuristic
 -----------------
 
 Links:
