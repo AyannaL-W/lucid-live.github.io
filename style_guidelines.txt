@@ -1,8 +1,8 @@
-Overall Style of the Lucid Livewebsite:
+Overall Style of the Lucid Live website:
 Futuristic, simple, and clean
 
 The overall look and feel should be minimalist and flat. We will avoid 3d buttons and 3d metal looks.
-The website should be calm and gentle for the user .
+The website should be calm and gentle for the user. We have also used modern designs and photographs for backgrounds.
 
 -----------------
 
@@ -23,19 +23,19 @@ We use dark blue of different shades with pink or yellow glow to produce a cool,
 -----------------
 
 Iconography:
-We will focus on using icons that have a flat and glowy design. We will use
-the brain image for our design
+We will focus on using icons that have a flat and glowy design. Our webpage backgrounds use modern designs and photographs. We will use
+the brain icon for our design.
 
 -----------------
 
 Typography:
-We will be using the font oxygen because it looks futuristic
+We will be using the font 'Oxygen' because it looks futuristic, simple and clean.
 -----------------
 
 Links:
-when a link is hovered over it will change to a darker colour
+when a link is hovered over it will change to a darker colour.
 
 -----------------
 
 Buttons:
-scales up as you hover over them
+Scales up as you hover over them.
